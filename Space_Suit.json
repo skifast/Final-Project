@@ -1,0 +1,17 @@
+{
+    "id": "444449",
+    "name" : "Space Person",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/space-suit.png",
+    "keywords" : ["Blue", "Space", "Adventure", "Gender neutral"],
+    "categories" : ["Occupations"],
+    "description" : "Elevate your Halloween adventure with our NASA Astronaut Costume! This official-looking space suit is made from sturdy, high-quality materials featuring authentic patches, including the iconic NASA emblem, American flag, and mission patches. Perfect for space enthusiasts and costume parties alike, this outfit will launch your festivities to new heights."
+}

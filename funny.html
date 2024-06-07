@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<!--
+    Author: Valerie Hetherington
+    CS 132 Spring 2024
+    Date: June 6 2024
+    Description: This is the html document for the funny page. Customers are able
+    to view all costumes under the funny category. The navigation
+    allows navigation between pages. The costume tiles are filled with images and 
+    titles with help from funny.js
+-->
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Happy Halloween</title>
+        <link rel="stylesheet" href="styles.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Creepster&display=swap" rel="stylesheet">
+        <script src="utils.js"></script>
+        <script defer src="funny.js"></script>
+    </head>
+    <body>
+        <header>
+            <section id="top-bar">
+                <h1>
+                    Funny Costumes
+                </h1> 
+                <a href="contact.html">
+                    Contact Us
+                </a>
+                <a href="credits.html">
+                    View Credits
+                </a>
+            </section>
+            <nav>
+                <ul>
+                    <li><a href="costumes.html">All</a></li>
+                    <li><a href="animals.html">Animals</a></li>
+                    <li><a href="occupations.html">Occupations</a></li>
+                    <li><a href="funny.html">Funny</a></li>
+                    <li><a href="scary.html">Scary</a></li>
+                    <li><a href="characters.html">Characters</a></li>
+                </ul>
+            </nav>
+        </header>
+        <div id="message-area" class="hidden"></div>
+        <section id="costume-tiles">
+        </sections>
+    </body>
+</html>

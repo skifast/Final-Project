@@ -1,0 +1,17 @@
+{
+    "id": "444454",
+    "name" : "Scarecrow",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/scarecrow.png",
+    "keywords" : ["Farm", "Horror", "Scary", "Gender neutral"],
+    "categories" : ["Scary"],
+    "description" : "Guard the fields—or your next party—with our Scarecrow Costume! This rustic outfit is detailed with patchwork and straw accents, embodying the classic farm sentinel. It's spooky enough for Halloween frights and detailed enough for themed events."
+}

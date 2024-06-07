@@ -1,0 +1,17 @@
+{
+    "id": "444457",
+    "name" : "The Grinch",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/grinch.png",
+    "keywords" : ["Green", "Christmas", "Grinch"],
+    "categories" : ["Characters"],
+    "description" : "Steal Christmas in style with our Grinch Costume! This costume captures the mischievous character perfectly with fur details and an expressive mask. It includes a Santa jacket and hat to complete the Grinch's holiday heist look."
+}

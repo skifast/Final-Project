@@ -1,0 +1,17 @@
+{
+    "id": "444452",
+    "name" : "Banana",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/banana.png",
+    "keywords" : ["Yellow", "Fruit", "Banana", "Gender neutral"],
+    "categories" : ["Funny"],
+    "description" : "Go bananas this Halloween with our vibrant Banana Costume! Perfect for parties or trick-or-treating, this costume features a realistic banana peel design that wraps around for a comfortable fit. It's easy to slip on and off, making it a great choice for those who value both fun and convenience."
+}

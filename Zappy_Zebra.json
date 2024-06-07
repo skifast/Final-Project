@@ -1,0 +1,17 @@
+{
+    "id": "444444",
+    "name" : "Zappy Zebra",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/zappy-zebra.jpeg",
+    "keywords" : ["Black and White", "Zebra", "Gender neutral"],
+    "categories" : ["Animals"],
+    "description" : "Stripe up your life this Halloween with our Zappy Zebra Costume! This full-body suit includes a headpiece with ears and the distinctive black and white stripes, making it a perfect pick for kids' parties, dress-up days, or any animal-themed event. Comfortable and adorable, it’s sure to be a hit at any festive occasion."
+}

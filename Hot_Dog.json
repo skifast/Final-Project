@@ -1,0 +1,17 @@
+{
+    "id": "444450",
+    "name" : "Hot Dog",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/hot-dog.png",
+    "keywords" : ["Food", "Hot Dog", "Gender neutral"],
+    "categories" : ["Funny"],
+    "description" : "Relish in the fun with our Hot Dog Costume! This outfit features a bun and sausage design with all the fixings, including mustard. It's the perfect pick for a deliciously humorous ensemble at any party or event."
+}

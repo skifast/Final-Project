@@ -1,0 +1,17 @@
+{
+    "id": "444453",
+    "name" : "Freddy Krueger",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/freddy-krueger.png",
+    "keywords" : ["Stripes", "Horror", "Scary"],
+    "categories" : ["Scary", "Characters"],
+    "description" : "Bring the horror of Elm Street to life with our Freddy Krueger Sweater! Featuring the infamous red and green striped pattern, this sweater comes complete with faux distressed leather glove with 'blades'. Spook your friends and command your nightmare this Halloween!"
+}

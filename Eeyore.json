@@ -1,0 +1,17 @@
+{
+    "id": "444455",
+    "name" : "Eeyore",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/eeyore.png",
+    "keywords" : ["Winne the Pooh", "Cute", "Glum", "Gender neutral"],
+    "categories" : ["Characters"],
+    "description" : "Embrace your inner Eeyore with this cozy and adorable Eeyore Onesie! Made from soft, plush material, this costume is perfect for a comfortable night in or a fun party with friends. Features an attached tail and a character hood to capture Eeyore's lovable gloom."
+}

@@ -1,0 +1,17 @@
+{
+    "id": "444448",
+    "name" : "Delivery Person",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/delivery-person.png",
+    "keywords" : ["Brown", "Delivery Person", "Gender neutral"],
+    "categories" : ["Occupations"],
+    "description": "Deliver smiles at your next costume party with our Delivery Person Costume! This outfit includes a logoed brown shirt, matching shorts, and a cap, complete with a handheld package to complete the look. It's ideal for those who enjoy a costume that combines humor with a touch of realism."
+}

@@ -1,0 +1,17 @@
+{
+    "id": "444456",
+    "name" : "Where's Waldo",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/where's-waldo.png",
+    "keywords" : ["Stripes", "Waldo", "Gender neutral"],
+    "categories" : ["Characters"],
+    "description" : "Can you find me? Now you can be the one everyone's searching for with our Where's Waldo Costume! This set includes the character's signature red and white striped shirt, matching bobble hat, and glasses—ideal for book-themed parties or when you want to throw a playful challenge into your Halloween fun."
+}

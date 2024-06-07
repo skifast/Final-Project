@@ -1,0 +1,17 @@
+{
+    "id": "444446",
+    "name" : "Elegant Horse",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/elegant-horse.jpeg",
+    "keywords" : ["Brown", "Horse", "2 Person", "Gender neutral"],
+    "categories" : ["Animals"],
+    "description" : "Gallop into the spotlight with our Elegant Horse Mascot costume. This full-body plush suit is intricately designed with a realistic mane, tail, and hoof details. Perfect for parades, sports events, or any festivity requiring a touch of animal charisma."
+}

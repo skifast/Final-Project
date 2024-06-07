@@ -1,0 +1,17 @@
+{
+    "id": "444447",
+    "name" : "Medical Scrubs",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/medical-scrubs.png",
+    "keywords" : ["Blue", "Nurse", "Doctor", "Gender neutral"],
+    "categories" : ["Occupations"],
+    "description" : "Dress up as the everyday hero with our Medical Scrubs Costume. This realistic set includes blue scrubs and a stethoscope accessory, making it ideal for those who admire our healthcare heroes or for a no-fuss costume option."
+}

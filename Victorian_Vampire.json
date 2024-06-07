@@ -1,0 +1,17 @@
+{
+    "id": "444458",
+    "name" : "Victorian Vampire",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/victorian-vampire.png",
+    "keywords" : ["Gothic", "Horror", "Scary", "Gender neutral"],
+    "categories" : ["Scary"],
+    "description" : "Step into the night as a sophisticated creature of the dark with our Victorian Vampire Costume. This elegant outfit features a rich, detailed vest, a full-length satin cape, lace cuffs, and a high-collared shirt, all accented with red and black to evoke the mystique of the undead aristocracy. Perfect for Halloween parties or any gothic-themed event."
+}

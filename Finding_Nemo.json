@@ -1,0 +1,17 @@
+{
+    "id": "444445",
+    "name" : "Finding Nemo",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/finding-nemo.jpeg",
+    "keywords" : ["Orange", "Fish", "Gender neutral"],
+    "categories" : ["Animals", "Characters"],
+    "description" : "Make a splash with our Finding Nemo Costume! This outfit replicates Nemo's iconic orange and white stripes with precise detailing. Ideal for themed parties or oceanic adventures, it’s sure to turn heads and warm hearts."
+}

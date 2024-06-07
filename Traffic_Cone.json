@@ -1,0 +1,17 @@
+{
+    "id": "444451",
+    "name" : "Traffic Cone",
+    "size" : {
+        "S" : 54.0,
+        "M" : 55.0,
+        "L" : 55.0,
+        "XL": 56.0,
+        "1X": 57.0,
+        "2X": 58.0, 
+        "3X": 59.0
+    },
+    "img" : "imgs/traffic-cone.png",
+    "keywords" : ["Orange", "Traffic Cone", "Construction", "Gender neutral"],
+    "categories" : ["Funny", "Occupations"],
+    "description" : "Caution! Fun ahead with our Traffic Cone Costume. This bright orange, lightweight outfit features the 'Caution: Bump Ahead' warning, ensuring you'll be the talk of any party. It's the perfect choice for a humorous entry at any festive gathering, making you an unmistakable landmark!"
+}

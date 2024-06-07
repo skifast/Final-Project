@@ -1,0 +1,184 @@
+body, textarea {
+    background-color:  #a73ae7;
+}
+
+h1 {
+    padding-left: 10px;
+    padding-right: 10px; 
+    margin: 0;
+    font-size: 3.0em;
+}
+
+h1, #top-bar {
+    height: 60px;
+}
+
+#top-bar > a, label, #slideshow > section > p, .prev, .next {
+    font-size: 2.0em;
+}
+
+a {
+    text-decoration: none;           
+}
+
+body > section, form, #slideshow, #costume-tiles, #up-close-costume-tile-container, #up-close-costume-tile, nav, #top-bar, #costume-tiles > section, #slideshow > section {
+    justify-content: center;
+}
+
+#slideshow > section > section, body > section, form, #slideshow, #costume-tiles, #up-close-costume-tile-container, #up-close-costume-tile, nav, #top-bar, #costume-tiles > section, #slideshow > section, #middle-bar  {
+    display: flex;
+    align-items: center;
+}
+
+
+#top-bar > p, h1, nav, a, a:hover, a:visited, a:active, #slideshow > section > p{
+    color:  #ff7930;
+}
+
+form, #slideshow, #costume-tiles > section, #slideshow > section {
+    flex-direction: column;
+}
+
+form{
+    margin: 10vh;
+    height: 30vh;
+}
+
+label, textarea, button {
+    color: #ff7930;
+}
+
+#slideshow > section > p{
+    margin-top: 0;
+}
+
+#slideshow > section > p, .saleImage {
+    display: none
+}
+
+#middle-bar {
+    justify-content: left;
+    height: 8vh;
+    width: 100%; 
+    margin-bottom: 0;
+}
+
+#middle-bar > p {
+    font-size: 2.5em;
+    margin-left: 10vh;
+}
+
+#costume-tiles, #up-close-costume-tile-container, #up-close-costume-tile, nav{
+    flex-direction: row;
+}
+
+#top-bar, #slideshow > section > section{
+    justify-content: space-between;
+}
+
+#costume-tiles > section > img, #middle-bar{
+    margin-top: 5vh;
+}
+
+#costume-tiles > section {
+    width: 40vh;
+    height: 50vh;
+    margin: 5vh;
+}
+
+#costume-tiles > section > p, li, h1,  #top-bar > p, h2, #slideshow > section > p, #middle-bar > p, #top-bar > a{ 
+    font-family: "Creepster", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#costume-tiles > section > p, #top-bar > p, h2{
+    font-size: 1.5em;
+}
+
+li{
+    margin-left: 5vh;
+}
+
+#costume-tiles {
+    flex-wrap: wrap;
+}
+
+#up-close-costume-tile, #up-close-costume-text, #costume-tiles > section, #middle-bar {
+    background-color: #ff7930;
+}
+
+#slideshow > section {
+    width: 90vh; 
+    height: 55vh;
+    background-image: url(imgs/spider-web.jpg);
+}
+
+#slideshow > section > section {
+    width: 90vh; 
+    height: 55vh;
+    flex-direction: row;
+}
+
+img {
+    height: 40vh;
+    width: 35vh; 
+    margin-top: 2vh;
+}
+
+nav {
+    height: 7vh;
+    background-color: #000000;
+    border-top: 2vh solid;
+    border-bottom: 2vh solid;
+    border-color: #ff7930;
+    font-size: 20pt;
+}
+
+ul {
+    list-style-type: none;
+}
+
+ul{
+    display: flex;
+}
+
+#up-close-costume-tile-container {
+    flex-wrap: wrap;
+}
+
+#up-close-costume-tile {
+    height: 80vh;
+    width: 78vh; 
+    margin-top: 1vh;
+}
+
+#up-close-costume-text {
+    width: 40vh;
+    height: 35vh;
+    margin-left: 3vh;
+}
+
+p {
+    padding: 2vh;
+}
+
+button, select {
+    margin: 2vh;
+}
+
+form{
+    background-color: #000000;
+    border: 2vh solid #ff7930;
+    width: 55vh;
+    height: 65vh; 
+}
+
+textarea {
+    width: 30vh; 
+    font-size: 2.0;
+}
+
+#messageTextBox {
+    height: 20vh;
+}
